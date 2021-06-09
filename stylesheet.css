@@ -172,5 +172,30 @@ a {
   height: 80px;
 }
 
-
+footer {
+  text-align: center;
+  background-color: rgba(35, 28, 61, 0.9);
+  padding-top: 20px;
+  padding-bottom: 20px
+}
+footer h1 {
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+  }
+footer p {
+  margin-top: 5px;
+  }
+footer img {
+  height: 40px;
+  width: 40px;
+  margin-right: 25px;
+  margin-top: 1px;
+  margin-bottom: 20px;
+}
+.copyright {
+  border-top: 2px solid #eee;
+  margin-top: 10px;
+  color : grey;
+  font-size: 12px;
+}
 
